@@ -1,5 +1,5 @@
 ## 💻 &nbsp; About Me
-- 🏠 Currently live in Yogyakarta, Indonesia.
+- 🏠 Indonesia.
 - 🛠️ Focusing on backend development, Sometimes do frontend things.
 - 👨‍💻 Learning about backend development
 
