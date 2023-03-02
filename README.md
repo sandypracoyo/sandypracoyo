@@ -1,8 +1,3 @@
-## 💻 &nbsp; About Me
-- 🏠 Indonesia.
-- 🛠️ Focusing on backend development, Sometimes do frontend things.
-- 👨‍💻 Learning about backend development
-
 ## **🛠️ &nbsp;Tech Stacks**
 
 - ### &nbsp;Web Development <br>
